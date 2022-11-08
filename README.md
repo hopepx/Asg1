@@ -16,7 +16,7 @@ Page 2: What We Do aka Services that we provide
 - Social Media Marketing
 - Lead Generation
 
-Page 3:
+Page 3: Proof of Work
 
 
 Page 4: Testimonial from customers
@@ -25,6 +25,8 @@ Page 4: Testimonial from customers
 Page 5: Schedule your call
 
 
+Page 6: Footer
+- Contact information: Address, email & number
 
 
 
