@@ -24,7 +24,8 @@ Page 3: Proof of Work
 
 Page 4: Testimonial from customers
 - Slider bar for the testimonial (JavaScript)
-- 
+- Include the pictures of the testimonial on the slider
+
 Page 5: Schedule your call
 - Input your Name, Phone Number, Email, Company Website URL
 
