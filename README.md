@@ -18,14 +18,11 @@ Page 2: What We Do aka Services that we provide
 
 Page 3: Proof of Work
 
-
 Page 4: Testimonial from customers
 - Slider bar for the testimonial (JavaScript)
-
-
+- 
 Page 5: Schedule your call
 - Input your Name, Phone Number, Email, Company Website URL
-
 
 Page 6: Footer
 - Logo + Contact information: Company Address, Email & Phone Number
