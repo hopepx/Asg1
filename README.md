@@ -6,7 +6,7 @@ Company Name: XW Digital
 Navigation Bar Requirements: 
 Home(Logo), About, Services, Results, Reviews/Testimonial & Contact Page
 
-Page 1: Book a 30 min call consultation ( Graph Graphics)
+Page 1: Book a 30 min call consultation (Graph Graphics)
 - Need to have a (Book Now) button with a dropdown effect which will drop down to (Schedule your call) section for booking a call
 - Graph Graphics (Animation maybe)
 
