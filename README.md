@@ -1,6 +1,11 @@
 # Asg1
 
-Digital Marketing Agency
+Company Website: Digital Marketing Agency
+
+Navigation Bar Requirements: 
+About, Services, Results, Testimonial & Contact Page
+
+
 
 
 
