@@ -37,12 +37,13 @@ Page 6: Footer
 - Reviews
 - Contact
 
+![image-001](https://user-images.githubusercontent.com/61568156/200578228-570f6d89-d1df-43ca-bcee-b30c61ddbd5f.png)
 ![image-002](https://user-images.githubusercontent.com/61568156/200578198-b5be7b91-ec47-4dc2-a52b-be6ba0820e51.png)
 ![image-003](https://user-images.githubusercontent.com/61568156/200578207-8f083d9f-b53c-4d6e-be05-537e24b5607c.png)
 ![image-004](https://user-images.githubusercontent.com/61568156/200578212-a1662726-6105-4656-b968-151976357623.png)
 ![image-005](https://user-images.githubusercontent.com/61568156/200578216-7ce0a0c7-2eb1-4cc9-ad53-c62ede4c0e6a.png)
 ![image-006](https://user-images.githubusercontent.com/61568156/200578226-9f3b8d59-5318-4fd5-9907-137d16ba509b.png)
-![image-001](https://user-images.githubusercontent.com/61568156/200578228-570f6d89-d1df-43ca-bcee-b30c61ddbd5f.png)
+
 
 
 
