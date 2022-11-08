@@ -26,7 +26,12 @@ Page 5: Schedule your call
 
 
 Page 6: Footer
-- Contact information: Address, email & number
+- Logo + Contact information: Company Address, Email & Phone Number
+- About
+- Services 
+- Results
+- Reviews
+- Contact
 
 
 
