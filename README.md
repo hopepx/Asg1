@@ -20,6 +20,7 @@ Page 3: Proof of Work
 
 
 Page 4: Testimonial from customers
+- Slider bar for the testimonial (JavaScript)
 
 
 Page 5: Schedule your call
