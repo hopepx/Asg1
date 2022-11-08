@@ -36,7 +36,7 @@ Page 6: Footer
 - Results
 - Reviews
 - Contact
-                                              WIREFRAME
+
 ![image-001](https://user-images.githubusercontent.com/61568156/200578228-570f6d89-d1df-43ca-bcee-b30c61ddbd5f.png)
 ![image-002](https://user-images.githubusercontent.com/61568156/200578198-b5be7b91-ec47-4dc2-a52b-be6ba0820e51.png)
 ![image-003](https://user-images.githubusercontent.com/61568156/200578207-8f083d9f-b53c-4d6e-be05-537e24b5607c.png)
