@@ -54,10 +54,10 @@ section {
   border-radius: 10rem;
   padding: 1.5rem 4rem;
 }
-
-.btn:hover {
-  background: var(--black);
-  color: var(--white);
+ 
+  .btn:hover {
+    background: var(--black);
+    color: var(--white);
 }
 
 .heading {
@@ -68,31 +68,31 @@ section {
 }
 
 .home {
-    height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-      url('images/peperage.jpg') no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-  
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column;
-    text-align: center;
-  }
-  
-  .home h1 {
-    font-size: 6rem;
-    font-weight: 400;
-    margin-bottom: 3rem;
-    color: var(--white);
-  }
-  
-  .home p {
-    font-size: 1.7rem;
-    font-weight: 400;
-    margin-bottom: 3rem;
-    text-transform: none;
-    color: var(--white);
-  }
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url('images/coverone.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  text-align: center;
+}
+
+.home h1 {
+  font-size: 6rem;
+  font-weight: 400;
+  margin-bottom: 3rem;
+  color: var(--white);
+}
+
+.home p {
+  font-size: 1.7rem;
+  font-weight: 400;
+  margin-bottom: 3rem;
+  text-transform: none;
+  color: var(--white);
+}
