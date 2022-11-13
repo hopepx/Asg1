@@ -96,3 +96,48 @@ section {
   text-transform: none;
   color: var(--white);
 }
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 5rem 9%;
+  display: flex;
+  align-items: center;
+  z-index: 100;
+}
+
+.header.active {
+  background: var(--white);
+  padding: 3rem 9%;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.header.active .logo,
+.header.active .navbar a,
+.header.active .menu {
+  color: var(--black);
+}
+
+.header .logo {
+  margin-right: auto;
+  font-size: 2rem;
+  color: var(--white);
+  font-weight: 700;
+}
+
+.header .logo span {
+  font-weight: normal;
+}
+
+.header .navbar a {
+  font-size: 1.7rem;
+  color: var(--white);
+  margin-left: 3rem;
+}
+
+.header .menu {
+  font-size: 2rem;
+  color: var(--white);
+  display: none;
+}
