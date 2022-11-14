@@ -141,3 +141,27 @@ section {
   color: var(--white);
   display: none;
 }
+
+.about .box-container .box .image {
+  height: 40rem;
+}
+
+.about .box-container .box .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.about .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  gap: 2rem;
+}
+
+.about .box-container .box p {
+  font-size: 1.7rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+  color: var(--light-color);
+  text-transform: none;
+}
