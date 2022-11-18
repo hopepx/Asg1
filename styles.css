@@ -166,3 +166,50 @@ section {
   color: var(--black);
   text-transform: none;
 }
+
+/* services */
+.services {
+  background: var(--light-bg);
+}
+
+.services .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  gap: 5rem;
+}
+
+.services .box-container .box {
+  background: var(--white);
+  text-align: center;
+  border-radius: 1rem;
+  padding: 3rem;
+}
+
+.services .box-container .box img {
+  margin-bottom: 2rem;
+}
+
+.services .box-container .box h3 {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
+.services .box-container .box p {
+  font-size: 1.5rem;
+  line-height: 2;
+  color: var(--light-color);
+}
+
+.services .box-container .box:hover {
+  background: var(--black);
+}
+
+.services .box-container .box:hover h3,
+.services .box-container .box:hover p {
+  color: var(--white);
+}
+
+.services .box-container .box:hover img {
+  filter: invert(100%);
+}
+/* services */
