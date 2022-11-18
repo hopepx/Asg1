@@ -17,6 +17,8 @@ Page 2: What We Do aka Services that we provide
 - Lead Generation
 - Website Creation
 - Email Marketing
+- Content Creation
+- Strategy Planning
 
 Page 3: Proof of Work
 - Logo of many companies that we have worked together previously
@@ -48,7 +50,11 @@ Link to Wireframe: https://www.figma.com/file/IZF5H8iJe7YJ9lu0laNl2J/Design?node
 ![image-005](https://user-images.githubusercontent.com/61568156/200578216-7ce0a0c7-2eb1-4cc9-ad53-c62ede4c0e6a.png)
 ![image-006](https://user-images.githubusercontent.com/61568156/200578226-9f3b8d59-5318-4fd5-9907-137d16ba509b.png)
 
-
+Website Used:
+- https://www.flaticon.com/ (Icons)
+- https://loading.io/ (Custom Animation of the Icons)
+- https://stackoverflow.com/ (When there are problems with my code)
+- https://www.pexels.com/ (Free non-copyrighted images)
 
 
 
