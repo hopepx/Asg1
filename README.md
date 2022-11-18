@@ -17,6 +17,8 @@ Page 2: What We Do aka Services that we provide
 - Lead Generation
 - Website Creation
 - Email Marketing
+- Content Creation
+- Strategy Planning
 
 Page 3: Proof of Work
 - Logo of many companies that we have worked together previously
