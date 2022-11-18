@@ -15,6 +15,8 @@ Page 2: What We Do aka Services that we provide
 - Search Engine Marketing
 - Social Media Marketing
 - Lead Generation
+- Website Creation
+- Email Marketing
 
 Page 3: Proof of Work
 - Logo of many companies that we have worked together previously
