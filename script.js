@@ -13,3 +13,15 @@ document.onscroll = () => {
       document.querySelector('.header').classList.remove('active');
     }
   };
+  const goTopBtn = document.querySelector("[data-go-top]");
+
+window.addEventListener("scroll", function () {
+
+  if (window.scrollY >= 800) {
+    goTopBtn.classList.add("active");
+  } else {
+    goTopBtn.classList.remove("active");
+  }
+
+});
+
