@@ -53,7 +53,7 @@ Link to Wireframe: https://www.figma.com/file/IZF5H8iJe7YJ9lu0laNl2J/Design?node
 Website Used:
 https://www.flaticon.com/ (Icons)
 https://loading.io/ (Custom Animation of the Icons)
-https://stackoverflow.com/ (When there is bugs)
+https://stackoverflow.com/ (When there are problems with my code)
 
 
 
