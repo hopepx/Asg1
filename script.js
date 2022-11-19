@@ -13,7 +13,9 @@ document.onscroll = () => {
       document.querySelector('.header').classList.remove('active');
     }
   };
-  const goTopBtn = document.querySelector("[data-go-top]");
+
+/* go top button */
+const goTopBtn = document.querySelector("[data-go-top]");
 
 window.addEventListener("scroll", function () {
 
@@ -24,8 +26,9 @@ window.addEventListener("scroll", function () {
   }
 
 });
+/* go top button */
 
-
+/* mobile view navigation bar */
 const navbar = document.querySelector('.header .navbar');
 const menuButton = document.querySelector('.header .menu');
 
@@ -52,3 +55,4 @@ document.onload = () => {
     document.querySelector('.header').classList.remove('active');
   }
 };
+/* mobile view navigation bar */
