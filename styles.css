@@ -55,9 +55,9 @@ section {
   padding: 1.5rem 4rem;
 }
  
-  .btn:hover {
-    background: var(--black);
-    color: var(--white);
+.btn:hover {
+  background: var(--black);
+  color: var(--white);
 }
 
 .heading {
@@ -514,8 +514,8 @@ section {
     transform: translateX(100%);
   }
 
-  header .navbar.show {
-    transform: translateX(0);
+.header .navbar.show {
+  transform: translateX(0);
   }
 
   .header .navbar a {
