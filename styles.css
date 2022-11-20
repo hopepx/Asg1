@@ -466,7 +466,7 @@ section {
 }
 
 .go-top.active {
-  opacity: 0.069;
+  opacity: 0.169;
   visibility: visible;
   pointer-events: all;
 }
