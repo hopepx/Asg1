@@ -38,7 +38,7 @@ Page 6: [Contact] Send an email to enquiry more details
 - Input your Name, Phone Number, Email, Company Website URL
 - Hyperlink to Contact information: Address, Email, Phone & Fax
 
-Page 7: Footer
+Page 7: [Footer] Logo + Socials
 - Logo 
 - Hyperlinks of Social Media
 
