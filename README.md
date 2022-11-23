@@ -48,7 +48,8 @@ Website Used:
 - https://www.flaticon.com/ (Icons)
 - https://loading.io/ (Custom Animation of the Icons)
 - https://stackoverflow.com/ (When there are problems with my code)
-- https://www.youtube.com/ (Learning)
+- https://www.youtube.com/ (Learning + Ideas)
+- https://www.w3schools.com/ (Learning)
 - https://www.pexels.com/ (Free non-copyrighted images)
 
 
