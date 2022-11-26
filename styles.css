@@ -67,6 +67,7 @@ section {
   text-align: center;
 }
 
+/* home */
 .home {
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
@@ -96,6 +97,9 @@ section {
   text-transform: none;
   color: var(--white);
 }
+/* home */
+
+/* header */
 .header {
   position: fixed;
   top: 0;
@@ -141,7 +145,9 @@ section {
   color: var(--white);
   display: none;
 }
+/* header */
 
+/* about */
 .about .box-container .box .image {
   height: 40rem;
 }
@@ -166,6 +172,7 @@ section {
   color: var(--black);
   text-transform: none;
 }
+/* about */
 
 /* services */
 .services {
