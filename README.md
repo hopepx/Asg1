@@ -60,6 +60,13 @@ Website Used:
 ![image-005](https://user-images.githubusercontent.com/61568156/200578216-7ce0a0c7-2eb1-4cc9-ad53-c62ede4c0e6a.png)
 ![image-006](https://user-images.githubusercontent.com/61568156/200578226-9f3b8d59-5318-4fd5-9907-137d16ba509b.png)
 
+![iPhone 14 Pro Max Mobile Wireframe](https://user-images.githubusercontent.com/61568156/204769000-5652dda8-0487-4188-a5c4-da69212ad9e1.png)
+![iPhone 14 Pro Max Mobile Wireframe Contact Page](https://user-images.githubusercontent.com/61568156/204768995-8a8dfe2b-a46a-4f7e-9e34-621acd7ec51b.png)
+![Web 1920  Desktop Wireframe](https://user-images.githubusercontent.com/61568156/204769005-11bf4346-02d6-4995-9156-e0bab84f75bf.png)
+![Web 1920 Desktop Wireframe  Continuous Contact Page](https://user-images.githubusercontent.com/61568156/204769008-0a7a7c16-608a-44db-ad2a-c93e28f9f701.png)
+![Web 1920 Desktop Wireframe  Continuous](https://user-images.githubusercontent.com/61568156/204769010-d3608531-03b8-4819-8bf8-dd3a7eab960c.png)
+
+
 
 
 
