@@ -43,7 +43,11 @@ Page 7: [Footer] Logo + Socials
 - Hyperlinks of Social Media
 
 Link to Wireframe (Mockup): https://www.figma.com/file/IZF5H8iJe7YJ9lu0laNl2J/Design?node-id=0%3A1
+
 Link to Finalized Wireframe: https://xd.adobe.com/view/9c8d7de1-2976-49f0-84ab-b5402ae92604-c9de/
+
+Link to Video Walkthrough: https://youtu.be/tWQiPkBq90s
+
 Website Used:
 - https://www.flaticon.com/ (Icons)
 - https://loading.io/ (Custom Animation of the Icons)
